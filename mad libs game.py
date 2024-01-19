@@ -1,0 +1,10 @@
+username = input('enter your username :')
+fathername = input('enter your father name :')
+mothername = input('enter your mothername :')
+study = input('enter your study level :')
+food = input('enter your favourite food :')
+game = input('enter your favourite game :')
+place = input('enter your favourite place  :')
+country = input('enter your favourite country :')
+
+print(f"your doggy name is {username} , your dad name is {fathername} , your favourite things is {food , game , place , country} , The number of your teeth is {study}" )
